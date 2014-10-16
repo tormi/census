@@ -1,5 +1,5 @@
 {"type": "FeatureCollection", "features": [	
 
-{"type": "Feature", "id":56104, "properties": { "geoid": "01001020100", "geoid type": "tract"}, "geometry": {"type":"Point","coordinates":[-86.49007547303556,32.477187434260067]}},
+{"type": "Feature", "id":56984, "properties": { "geoid": "02020002601", "geoid type": "tract"}, "geometry": {"type":"Point","coordinates":[-149.845314059640401,61.151760602888402]}},
 
 {} ]}
